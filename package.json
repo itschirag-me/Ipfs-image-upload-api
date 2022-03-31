@@ -1,0 +1,16 @@
+{
+  "name": "infs_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "shivamguptass-sdn",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "ipfs-api": "^26.1.2",
+    "ipfs-mini": "^1.1.5",
+    "multer": "^1.4.4"
+  }
+}
